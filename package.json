@@ -8,6 +8,6 @@
     "esm": "^3.2.25"
   },
   "scripts": {
-    "dev": "node -r esm index.js"
+    "dev": "STAGE=dev node -r esm index.js"
   }
 }
