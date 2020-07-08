@@ -1,0 +1,20 @@
+{
+  "2019": [
+    {
+      "id": "3A97612E-5A8F-47FF-A340-0C2C8AFAD4F8",
+      "name": "Example Tournament 2019",
+      "city": "Malmö",
+      "country": "Sweden",
+      "date": ["2019-02-03", "2019-02-07"],
+      "td": "F56DCB59-3357-44C0-939A-FA0288BBE098",
+      "referees": [
+        "F56DCB59-3357-44C0-939A-FA0288BBE098",
+        "8227835D-F2E4-43BF-83BE-CB62580DB06D",
+        "AD6255A4-3AB5-435E-B391-2E3FF0CA1563"
+      ],
+      "teams": [
+        "Sweden", "Finland", "Denmark"
+      ]
+    }
+  ]
+}

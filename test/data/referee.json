@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8227835D-F2E4-43BF-83BE-CB62580DB06D",
+    "firstName": "John",
+    "lastName": "Doe",
+    "country": "USA",
+    "email": "john.doe@example.org",
+    "level": 2
+  },
+  {
+    "id": "F56DCB59-3357-44C0-939A-FA0288BBE098",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "country": "CAN",
+    "email": "john.doe@example.org",
+    "level": 3
+  },
+  {
+    "id": "AD6255A4-3AB5-435E-B391-2E3FF0CA1563",
+    "firstName": "Noob",
+    "lastName": "Nederson",
+    "country": "SWE",
+    "email": "john.doe@example.org",
+    "level": 1
+  }
+]
