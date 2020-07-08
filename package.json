@@ -1,0 +1,13 @@
+{
+  "main": "index.js",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25"
+  },
+  "scripts": {
+    "dev": "node -r esm index.js"
+  }
+}
